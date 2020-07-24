@@ -14,8 +14,6 @@
 * Competitive Programming, I am an active participant in Codeshef, Codeforces and Atcoder. My handler is `codemastercpp` in all these sites.
 * Web development using MERN stack, and sometimes Django.
 
-### I'm currently learning
-* Modern C++, so that I can develop an Entity Component System(ECS) using Data Oriented Design(DOD) pattern.
 
 ### Connect with me
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
