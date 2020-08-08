@@ -1,6 +1,6 @@
 ### Hi there 👋
 * I am Prince Gupta, a programming enthusiast.
-* I am currently a Microsoft Student Partner.
+* I am currently a Microsoft Learn Student Ambassador.
 
 ### Some languages I'm familiar with
 * C++
