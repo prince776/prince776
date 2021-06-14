@@ -1,12 +1,12 @@
 ### Hi there 👋
 * I am Prince Gupta, a programming enthusiast.
-* I am currently SDE Intern at codechef
+* I am currently Backend SDE Intern at Sharechat
 
 ### Some languages I'm familiar with
 * C++
+* Javascript
 * Java
 * Python
-* Javascript
 
 ### Some things I like to do
 * Graphics programming in OpenGL.
