@@ -11,7 +11,7 @@
 ### Some things I like to do
 * Graphics programming in OpenGL.
 * Deep Learning, I love to explore the inner working of different type of neural networks and models.
-* Competitive Programming, I am an active participant in Codeshef, Codeforces and Atcoder. My handler is `codemastercpp` in all these sites.
+* Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is `codemastercpp` in all these sites.
 * Web development using MERN stack, and sometimes Django.
 
 
