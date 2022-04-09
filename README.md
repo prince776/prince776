@@ -1,18 +1,20 @@
 ### Hi there 👋
 * I am Prince Gupta, a programming enthusiast.
-* I am currently Backend SDE Intern at Sharechat
+* I'm an incoming Google SWE Intern.
+* I have previously interned at sharechat and codechef as backend and full stack developer.
 
 ### Some languages I'm familiar with
 * C++
-* Javascript
+* Javascript/Typescript
 * Java
 * Python
 
 ### Some things I like to do
+* Backend development of distributed systems that scale.
+* Casual Full stack development
 * Graphics programming in OpenGL.
+* Competitive Programming, I am/was an active participant in Codechef, Codeforces and Atcoder. My handler is `codemastercpp` in all these sites.
 * Deep Learning, I love to explore the inner working of different type of neural networks and models.
-* Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is `codemastercpp` in all these sites.
-* Web development using MERN stack, and sometimes Django.
 
 
 ### Connect with me
