@@ -1,10 +1,11 @@
 ### Hi there 👋
 * I am Prince Gupta, a programming enthusiast.
-* I'm an incoming Google SWE Intern.
-* I have previously interned at sharechat and codechef as backend and full stack developer.
+* I'm an upcoming Rubrik Backend Intern.
+* I have previously interned at Google, Mercari, Sharechat as backend developer and at codechef as fullstack.
 
 ### Some languages I'm familiar with
 * C++
+* Golang
 * Javascript/Typescript
 * Java
 * Python
@@ -20,4 +21,4 @@
 ### Connect with me
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
 
-- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/prince-gupta-a83655193/) or on [github](https://github.com/prince776).
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/prince-776/) or on [github](https://github.com/prince776).
