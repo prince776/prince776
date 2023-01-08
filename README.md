@@ -1,6 +1,6 @@
 ### Hi there 👋
 * I am Prince Gupta, a programming enthusiast.
-* I'm an upcoming Rubrik Backend Intern.
+* I'm a SDE Intern at Rubrik right now.
 * I have previously interned at Google, Mercari, Sharechat as backend developer and at codechef as fullstack.
 
 ### Some languages I'm familiar with
@@ -11,6 +11,7 @@
 * Python
 
 ### Some things I like to do
+* Low level programming
 * Backend development of distributed systems that scale.
 * Casual Full stack development
 * Graphics programming in OpenGL.
